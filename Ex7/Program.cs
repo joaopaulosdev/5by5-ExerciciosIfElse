@@ -12,24 +12,26 @@ altura = float.Parse(Console.ReadLine());
 altura /= 100;
 float resultadoIMC = pesoKg / (altura * altura);
 
+Console.WriteLine("Seu IMC é: " + resultadoIMC);
+
 Console.Write("- CLASSIFICAÇÃO: ");
 if(resultadoIMC < 18.5)
 {
     Console.WriteLine("Abaixo do peso");
 }
-else if(resultadoIMC >= 18.5 && resultadoIMC < 25)
+else if(resultadoIMC < 25)
 {
     Console.WriteLine("Peso normal");
 }
-else if (resultadoIMC >= 25 && resultadoIMC < 30)
+else if (resultadoIMC < 30)
 {
     Console.WriteLine("Sobrepeso");
 }
-else if (resultadoIMC >= 30 && resultadoIMC < 35)
+else if (resultadoIMC < 35)
 {
     Console.WriteLine("Obesidade grau I");
 }
-else if (resultadoIMC >= 35 && resultadoIMC < 40)
+else if (resultadoIMC < 40)
 {
     Console.WriteLine("Obesidade grau II");
 }
