@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Ex5/Ex5-AnoBissexto.csproj" Id="33b3e563-1b53-45f0-b862-75eb44f40b09" />
+  <Project Path="Ex6/Ex6-FaixaEtária.csproj" Id="b00ab694-380d-4bb7-902e-9f21150251a7" />
+  <Project Path="Ex7/Ex7-IMC.csproj" Id="3a6566f1-23f3-45a1-adb4-60124e95c863" />
+  <Project Path="Ex8/Ex8-SalarioAumento.csproj" Id="f863ba89-f1b1-4a69-890c-84678b0a3faa" />
+  <Project Path="Ex9/Ex9-TiposTriangulo.csproj" Id="b3df9b69-b0b3-4a96-a0c7-2b778eaf25b9" />
+  <Project Path="Exerc4OperacoesBasicas/Ex4-OperacBásica.csproj" Id="510c122b-795d-437c-8c6d-36d8e255fd16" />
+  <Project Path="ExerciciosOperadores/Ex1-ParÍmpar.csproj" />
+  <Project Path="Exercício2Operadores/Ex2-Decimais.csproj" />
+  <Project Path="Media4NotasAluno/Ex3-Média4Notas.csproj" />
+</Solution>
